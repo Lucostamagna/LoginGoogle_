@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "LoginGithub",
-    "slug": "LoginGithub",
+    "name": "LoginGoogle",
+    "slug": "LoginGoogle",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
