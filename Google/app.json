@@ -17,7 +17,7 @@
     ],
     "ios": {
       "supportsTablet": true, 
-      "bundleIdentifier":"com.anonymous.LoginGithub"
+      "bundleIdentifier":"com.anonymous.LoginGoogle"
     },
     "android": {
       
@@ -25,7 +25,7 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.anonymous.LoginGithub"
+      "package": "com.anonymous.LoginGoogle"
     },
     "web": {
       "bundler": "metro",
